@@ -1,0 +1,4 @@
+COMMON_EXCHANGE='common.exchange'
+COMMON_ROUTING='common.routing-key'
+COMMON_CONSUMER='common.consumer'
+COMMON_QUEUE_NAME='common.queue'
