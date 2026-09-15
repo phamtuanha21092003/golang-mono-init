@@ -1,0 +1,7 @@
+[[queues]]
+name = "common.queue"
+exchange = "common.exchange"
+binding_key = "common.routing-key"
+exchange_kind = "direct"
+handler = "common"
+max_priority = 10
